@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me by my own gmail: tmwu2018@gmail.com
+- 📫 You can reach me by my own blog site: https://blog.v5core.site
 
 
 <!---
